@@ -97,3 +97,6 @@ and design targeted offers in a more data-driven way rather than relying on assu
 
 Overall, this project demonstrates how clustering can be used as a decision-support tool,
 helping businesses visualize customer behavior today and prepare better strategies for tomorrow.
+
+📌 Author
+Ridham Oza Aspiring Data Scientist | Machine Learning | Analytics
