@@ -99,4 +99,6 @@ Overall, this project demonstrates how clustering can be used as a decision-supp
 helping businesses visualize customer behavior today and prepare better strategies for tomorrow.
 
 📌 Author
-Ridham Oza Aspiring Data Scientist | Machine Learning | Analytics
+
+Ridham Oza 
+Aspiring Data Scientist | Machine Learning | Analytics
